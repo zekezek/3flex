@@ -1,0 +1,51 @@
+body {
+    margin-top: 175px;
+    margin-left: 300px;
+    display: flex;
+    min-height: 50vh;
+    background-color: #f2f2f2;
+    width: 100vh;
+    color: white;
+    font-family: Lexend Deca;
+    display: flex;
+    justify-content: space-between;
+}
+
+body div{
+    justify-content: space-between;
+}
+
+body p {
+    font-size: 20px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.Sedans {
+    background-color: #e38826;
+}
+
+.SUVs {
+    background-color: #006970;
+}
+
+.Luxury {
+    background-color: #004241;
+}
+
+.button {
+    display: flex;
+    background-color: #f2f2f2;
+    margin: 5 5;
+    padding: 5 5;
+    margin: 0 10px;
+    
+}
+h1{
+    margin: 15px;
+    font-size: 50px;
+}
+img{
+    margin: 15px;
+    padding: 15px;
+}
